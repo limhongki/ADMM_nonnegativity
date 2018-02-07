@@ -17,7 +17,8 @@ BibTeX:
 
 ## Setting up and Reproducing
 
-To reproduce the paper, please make sure you have the following:\n
+To reproduce the paper, please make sure you have the following:
+
 Michigan Image Reconstruction Toolbox (MIRT) installed: http://web.eecs.umich.edu/~fessler/code/index.html.  
 
 Then simply run "main.m".
