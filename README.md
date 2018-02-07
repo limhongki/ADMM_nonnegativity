@@ -4,8 +4,15 @@ Lim, Hongki, Yuni K. Dewaraja, and Jeffrey A. Fessler. "A PET reconstruction for
 
 [Find the paper here.](https://doi.org/10.1088%2F1361-6560%2Faaa71b)
 
+BibTeX:
 ```
-@article{Lim_2018,doi = {10.1088/1361-6560/aaa71b},url = {https://doi.org/10.1088%2F1361-6560%2Faaa71b},year = 2018,month = {feb},publisher = {{IOP} Publishing},volume = {63},number = {3},pages = {035042},author = {Hongki Lim and Yuni K Dewaraja and Jeffrey A Fessler},title = {A {PET} reconstruction formulation that enforces non-negativity in projection space for bias reduction in Y-90 imaging},journal = {Physics in Medicine {\&} Biology}}
+@article{lim2018pet,
+  title={A PET reconstruction formulation that enforces non-negativity in projection space for bias reduction in Y-90 imaging},
+  author={Lim, Hongki and Dewaraja, Yuni K and Fessler, Jeffrey A},
+  journal={Physics in medicine and biology},
+  year={2018},
+  publisher={IOP Publishing}
+}
 ```
 
 ## Setting up and Reproducing
