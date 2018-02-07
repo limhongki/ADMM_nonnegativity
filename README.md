@@ -11,7 +11,7 @@ Lim, Hongki, Yuni K. Dewaraja, and Jeffrey A. Fessler. "A PET reconstruction for
 
 To reproduce the paper, please make sure you have the following:
 
-1. Michigan Image Reconstruction Toolbox (MIRT) installed: "http://web.eecs.umich.edu/~fessler/code/index.html".  
+1. Michigan Image Reconstruction Toolbox (MIRT) installed: http://web.eecs.umich.edu/~fessler/code/index.html.  
 2. Run main.m 
 
 
