@@ -1,5 +1,4 @@
-# A PET reconstruction formulation that enforces non-negativity in projection space for bias reduction in Y-90 imaging
-
+This GitHub repository is for reproducing following paper: 
 Lim, Hongki, Yuni K. Dewaraja, and Jeffrey A. Fessler. "A PET reconstruction formulation that enforces non-negativity in projection space for bias reduction in Y-90 imaging." Physics in medicine and biology (2018).
 
 [Find the paper here.](https://doi.org/10.1088%2F1361-6560%2Faaa71b)
