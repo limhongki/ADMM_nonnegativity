@@ -23,7 +23,7 @@ Michigan Image Reconstruction Toolbox (MIRT) installed: http://web.eecs.umich.ed
 
 Then simply run "main.m".
 
-This code includes reconstuctions using SPS-Reg, Neg-ML-Reg, ADMM-Reg in the paper. 
+"main.m" includes reconstuctions using SPS-Reg, Neg-ML-Reg, ADMM-Reg in the paper. 
 There are comments in the code. 
 Please contact "hongki@umich.edu" if you have any questions.  
 
