@@ -2,8 +2,8 @@ clc
 clear
 
 %% read XCAT data 
-mumap = bin_read('./Y90PET_act_1.bin'); % reading attenuation map
-mumap = func_mumap(mumap);
+mumap = bin_read('./Y90PET_atn_1.bin'); % reading attenuation map 
+mumap = mumap / 10; % cm -> mm
 ind = bin_read('./Y90PET_act_1.bin');
 liver = single((ind == 13)); % setting liver mask 
 llung = (ind == 15); rlung = (ind == 16); % setting lung mask 
